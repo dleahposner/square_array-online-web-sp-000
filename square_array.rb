@@ -11,5 +11,5 @@ def square_array(array)
         new_array << (squared_num)
         # new_array.push(squared_num)
       end
-      return new_array
+      # return new_array
     end
